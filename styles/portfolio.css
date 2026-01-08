@@ -139,14 +139,14 @@ nav .menu a{
 
 #about{
     margin: 130px 230px 0px 230px;
-    /* padding: 131px 156px; */
     border-radius: 10px;
-    /* border: 1px solid red; */
-    background-color: #FFF8F3;
+    
 }
 
 #about .about-container{
     padding: 131px 156px;
+    background-color: #FFF8F3;
+    
 }
 
 
@@ -212,6 +212,9 @@ nav .menu a{
     line-height: 28px;
     
 }
+
+
+
 
 
 
