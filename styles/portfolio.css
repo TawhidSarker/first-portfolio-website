@@ -23,6 +23,10 @@
     color: #FD6E0A;
 }
 
+.text-center{
+    text-align: center;
+}
+
 .btn{
     background-color: #FD6E0A;
     border: none;
