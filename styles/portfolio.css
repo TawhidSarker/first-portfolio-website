@@ -31,11 +31,12 @@
     background-color: #FD6E0A;
     border: none;
     border-radius: 5px;
-    padding: 18px 35px;
+    padding: 18px 19px;
     font-size: 20px;
     font-weight: bold;
     color: white;
     cursor: pointer;
+    margin-right: 30px;
 
 }
 
@@ -66,7 +67,7 @@
 header{
     background-color: #FFF8F3;
     background: url("../images/developer.png"), url("../images/header_bg.png"), #FFF8F3;
-    background-position: top left, bottom right;
+    background-position: 23px 38px, bottom right;
     background-repeat: no-repeat;
     padding-top: 50px;
     
