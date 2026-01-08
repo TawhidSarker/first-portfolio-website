@@ -293,13 +293,15 @@ footer .footer-container{
 .footer-container .social p{
     color: #474747;
     line-height: 28px;  
-    font-size: 16px;  
+    font-size: 16px;
+    margin-bottom: 30px;
 }
 
 .footer-container h2{
     font-size: 35px;
     color: #181818;
     margin-bottom: 20px;
+
     
 }
 
